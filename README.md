@@ -47,6 +47,8 @@ npm run dev
 Create a .env file and add:
 
 VITE_WEATHER_API_KEY=your_api_key_here
+
+
 📸 Screenshots
 
 <img width="1919" height="1018" alt="Screenshot 2026-04-29 015725" src="https://github.com/user-attachments/assets/d3b52aaa-59e3-4eb1-a378-589bd47d434c" />
