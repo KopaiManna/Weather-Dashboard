@@ -1,3 +1,4 @@
+<img width="1917" height="929" alt="Screenshot 2026-04-29 020801" src="https://github.com/user-attachments/assets/518e2aa1-02e8-4474-8ac1-6200507401ab" />
 🌦️ Weather Dashboard
 
 A modern and scalable weather dashboard built using React, Vite, and Tailwind CSS, providing real-time and forecasted weather data using WeatherAPI.
@@ -49,8 +50,6 @@ VITE_WEATHER_API_KEY=your_api_key_here
 📸 Screenshots
 
 <img width="1919" height="1018" alt="Screenshot 2026-04-29 015725" src="https://github.com/user-attachments/assets/d3b52aaa-59e3-4eb1-a378-589bd47d434c" />
-
-(Add screenshots here later)
 
 📌 Future Improvements
 📍 Auto location detection (GPS)
